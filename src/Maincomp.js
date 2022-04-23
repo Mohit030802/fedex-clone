@@ -13,8 +13,14 @@ function Maincomp() {
           <h2 className=" text-slate-300 text-2xl font-light mt-5 px-40">Sign up for a FedEx shipping account now.</h2>
           </div>
       </div>
-
+      <div>
+        <p className="text-center py-10 text-2xl">Sign up a <b>business account</b> now to enjoy personalized rates and pay within our</p>
+      </div>
+      <div>
+        <p className="text-center text-2xl -mt-9">standard 15-day credit term</p>
+      </div>
     </div>
+
   );
 }
 
